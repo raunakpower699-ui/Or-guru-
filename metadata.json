@@ -1,0 +1,6 @@
+{
+  "name": "Raunak Exploits",
+  "description": "Daily non-repeating virtual number pool with live OTP receiver, 24-hour auto-refresh engine, anti-loop blacklisting, and cyberpunk hacker terminal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
